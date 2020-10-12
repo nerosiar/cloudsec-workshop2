@@ -50,6 +50,10 @@
   </ul>
 </div>
 
+----
+
+##### This Presentation is Cloud Based Deployed For Consuming the benefits of the Cloud
+
 ---
 
 
@@ -60,7 +64,7 @@
 
 ----
 
-<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/14hemjzawc4tl7heatqw.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
+<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/8t2s8jw1zcb9iyvd8hwe.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
 
 ## Part 1 : Cloud Computing 
 
@@ -71,13 +75,33 @@
 
 ----
 
+<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/5hnndu91dr1oesfcazpi.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
+
 ## Part 2 : Cloud Service Models
 
 * What is Cloud Service Model?
 * Differences Between Cloud Service Models in terms of :
-  * Arduino IDE Setup
-  * Showcase
+  * Consumers Responsabilities and Providers Activities
+  * Pros & Cons
+  * Suitability & non-Suitability
+  * Security concerns 
 
+----
+
+<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/stx3ccb62piy9cdneyc1.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
+
+## Cloud Computing Security 
+
+* Important Points to know 
+* What's the security of the cloud 
+* Cloud Security Threats Examples
+* Key Security Consideration in The Cloud :
+  * Network Security
+  * Configuration Management
+  * Data Encryption
+  * Access Control 
+  * Monitoring & Logging 
+* The Road Ahead
 ---
 
 <!-- .slide: data-background-video="https://cdn.flixel.com/flixel/ypy8bw9fgw1zv2b4htp2.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
@@ -233,6 +257,94 @@ sleep(100) // sleep for 0.1 seconds
 <img class="slide-img med-img" src="" />
 <img class="slide-img med-img" src="" />
 
+---
+
+# Part 3 : Cloud Security
+
+---
+
+## Key Security Considerations in The Cloud 
+
+----
+
+# Network Security 
+
+<div class="dark-bg">
+  <ul>
+    <li>Built-in firewalls, control of network access to instances and subnets </li>
+    <li>Private / dedicated Connectivity options from office / on-premises envirenments</li>
+    <li>Encription in transit</li>
+    <li>DDoS mitigation</li>
+  </ul>
+</div>
+
+----
+
+# Configuration Management 
+
+<div class="dark-bg">
+  <ul>
+    <li>Inventory and configuration Management Tools to identify resources, track to manage them </li>
+    <li>Template definition and management tools to create standard / pre-configure VMs</li>
+    <li>Deployment Tools to manage creation and decommissioning of resources as per org.standard</li>
+  </ul>
+</div>
+
+----
+
+# Data Encryption 
+
+<div class="dark-bg">
+  <ul>
+    <li>Available for data at rest in storage services</li>
+    <li>Flexible Key Management options, including Cloud Managed keys / self-managed keys</li>
+    <li>Hardware based cryptographic key storage options</li>
+    <li>APIs for you to integrate encryption and data protection with any service developed / deployed on the cloud </li>
+  </ul>
+</div>
+
+----
+
+# Access Control 
+
+<div class="dark-bg">
+  <ul>
+    <li>Capabilities to define, enforce and manage user access policies accross services </li>
+    <li>Identity and Access Mangement</li>
+    <li> Multifactor authentication, including hardware based authentication options </li>
+    <li>Integration and federation with corporate directories</li>
+  </ul>
+</div>
+
+----
+
+# Monitoring & Logging 
+
+<div class="dark-bg">
+  <ul>
+    <li>Deep visibility into API calls, including Who? What? When? Form where? </li>
+    <li>Log aggregation, steamlining investigations, compliance reporting </li>
+    <li> Alert notifications</li>
+  </ul>
+</div>
+
+---
+
+# The Road Ahead 
+
+* Clouds are more prone to security attacks than on-perm deployments
+* Doesn't mean that those attacks are succeful
+* Cloud Providers are better enabled to handle security now 
+* 2016 had been the first year when people choose cloud because of security benefits, and not elasticity / cost
+* However, stay cautious ! More serious attacks could be expected as well !
+---
+
+# Conclusion 
+
+---
+
+* Cloud Computing has quickly become one of the most prominent busswords in the IT world due to it's revolutionary model of computing as a utility. It promises increased flexibility, scalability, and reliability, while promising decreased operational and support costs.
+* Despite the potential gains achieved from the cloud computing, the organizations are slow in accepting it due to security issues and challenges associated with it. Security is one of the major issues which hamper the growth of cloud. The idea of handling over important data to another company is worrisome; such that the consumers need to be vigilant in understanding the risks of data breaches in this new envirenment.
 ---
 
 <!-- .slide: data-background-video="https://cdn.flixel.com/flixel/ts1p4x68ezcwbofpgaw2.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
