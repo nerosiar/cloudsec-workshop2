@@ -70,7 +70,6 @@
 
 * What is The Cloud Computing?
 * Benefits of The Cloud Computing
-* What is an Arduino?
 * Cloud Consumers diffrences
 
 ----
@@ -237,11 +236,6 @@ The scale of cloud computing networks and their ability to provide load balancin
 </div>
 
 ---
-
-
-
-
-
 
 ### Sleep 😴 💤
 
