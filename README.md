@@ -189,10 +189,10 @@ The scale of cloud computing networks and their ability to provide load balancin
 </div>
 
 ----
+# Cloud Computing for Consumers 
 
+----
 ## Define and Describe the small entreprise needs of cloud
-
-
 
 ----
 
