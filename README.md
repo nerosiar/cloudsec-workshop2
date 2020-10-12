@@ -52,12 +52,15 @@
 
 ---
 
-<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/14hemjzawc4tl7heatqw.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
+
+<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/9ewm8485k5auk0rhn0go.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
 
 
 # Agenda
 
 ----
+
+<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/14hemjzawc4tl7heatqw.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
 
 ## Part 1 : Cloud Computing 
 
@@ -190,6 +193,7 @@ The scale of cloud computing networks and their ability to provide load balancin
 
 ----
 # Cloud Computing for Consumers 
+
 
 ----
 ## Define and Describe the small entreprise needs of cloud
