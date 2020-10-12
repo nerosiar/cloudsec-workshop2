@@ -1,0 +1,18 @@
+{
+  "name": "cloud-sec-workshop2",
+  "version": "1.0.0",
+  "description": "A presentation for workshop of cloud security ",
+  "main": "README.md",
+  "scripts": {
+    "start": "reveal-md -w  --theme night --highlightTheme hybrid --port 1337 --scripts custom.js --css styles.css README.md",
+    "build": "reveal-md  --theme night --highlightTheme hybrid --scripts custom.js --css styles.css README.md --static dist",
+    "pdf": "reveal-md  --theme night --highlightTheme hybrid --scripts custom.js --css styles.css README.md --print slides.pdf"
+  },
+  "keywords": [],
+  "author": "Nero Siar",
+  "license": "MIT",
+  "dependencies": {
+    "phantomjs-prebuilt": "^2.1.16",
+    "reveal-md": "^3.4.2"
+  }
+}
