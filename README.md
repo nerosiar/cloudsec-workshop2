@@ -52,7 +52,7 @@
 
 ----
 
-##### This Presentation is Cloud Based Deployed For Consuming the benefits of the Cloud
+### This Presentation is Cloud Based Deployed For Consuming the benefits of the Cloud
 
 ---
 
