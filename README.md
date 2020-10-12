@@ -103,10 +103,15 @@
 * The Road Ahead
 ---
 
+<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/wja6g3w9ebwj6cw753eg.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
+
+# Part 1 : Define & Describe Cloud Computing 
+
+---
 <!-- .slide: data-background-video="https://cdn.flixel.com/flixel/ypy8bw9fgw1zv2b4htp2.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
 
 # What's the Cloud!
-
+### Let's Think Outside the Earth !
 <img class="slide-img" src="https://i.imgur.com/oRo1XtL.png" />
 
 ----
@@ -345,6 +350,14 @@ sleep(100) // sleep for 0.1 seconds
 
 # Showcase!
 
+----
+
+<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/oaahb8d8i5t768wlkg5i.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
+
+# Stay Safe ,
+# Stay Home , 
+# Wash your Hands !
+## Have a good Sleep 😴 !
 ---
 
 <!-- .slide: data-background-video="https://cdn.flixel.com/flixel/f0w23bd0enxur5ff0bxz.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
