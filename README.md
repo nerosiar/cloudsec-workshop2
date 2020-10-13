@@ -89,7 +89,7 @@
 
 <!-- .slide: data-background-video="https://cdn.flixel.com/flixel/stx3ccb62piy9cdneyc1.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
 
-## Cloud Computing Security 
+## Part 3 : Cloud Computing Security 
 
 * Important Points to know 
 * What's the security of the cloud 
@@ -132,6 +132,41 @@ Note: AWS is the Cloud of the century!
 
 ---
 
+# What is driving Cloud adoption ? 
+
+#### What are the key enablers of the emergence of cloud computing ?
+
+----
+
+## Entreprise challenges 
+
+* Existing hardware has reached end of serviceable life
+* Applications & processes have variable demand
+* Speed of provisioning constraints business execution 
+* Datacenter capacity limits are being reached
+* Disaster Recovery, Fault Tolerance, High Availability
+* High Maintenance Costs Software Licence Costs
+
+----
+
+## How Cloud helps ... 
+* Elastic Capacity infinitely Scalable (Almost)
+* Quick and Ease Deployment Provisioning in Minutes Business Agility
+* No CapEx, Only OpEx, Fine grained biling (hourly) Pay as you go 
+* Leverage Global Scalability 
+* Be free from IT Management Hassles
+* Metering, Monitoring, Alerts
+
+----
+
+## Cloud Challenges 
+
+* Legal & Compliance
+* Security
+* Reliability & Performance
+* Lock of Standards, Compatibility
+
+---
 # Benefits of The cloud Computing?
 
 ----
@@ -192,7 +227,7 @@ The scale of cloud computing networks and their ability to provide load balancin
 
 <div class="dark-bg">
   <ul>
-    <li>Resource Pooling</li>
+    <li>Multi-Tenancy (Resource Pooling) </li>
     <li>Ease of utilization</li>
     <li>Outsources IT management</li>
     <li>Simplified maintenance and upgrade</li>
@@ -251,14 +286,171 @@ sleep(100) // sleep for 0.1 seconds
 
 ---
 * Options:
-  *
+  * pass this
 
 <img class="slide-img med-img" src="" />
 <img class="slide-img med-img" src="" />
 
 ---
 
+<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/8wxgggvqb7xpxr0p6mws.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
+# Part 2 : Cloud Service Models
+
+---
+
+# What is Cloud Service Model
+
+* Deployment Models
+* Service Models 
+
+----
+
+# Deployment Models 
+
+* A cloud deployment model represents a specific type of cloud environment, primarly distinguished by ownership, size, and access.
+* There are three common cloud deployment models :
+
+----
+
+<img class="slide-img" src="img/Cloud-Deployment-Models.png" />
+
+----
+
+# Public Cloud 
+
+* Public Cloud : Public Cloud are owned and operated by a third party cloud service provider, which deliver their computing resources like servers and storage over the internet. As the name suggests, Public cloud is open to public.
+
+----
+
+# Private Cloud :
+
+* The private cloud, in contrast to its public counterpart, isn't available to the public but is built specifically for a single organization to fit its needs. It may be managed internally or by a third-party and be hosted internally or externally.
+
+----
+
+# Hybrid Cloud :
+
+* A hybrid cloud is a combination of a private cloud combined with the use of public cloud services allowing data and applications to move between private and public clouds. This model gives business greater flexibility and more deployment options.
+
+---
+
+# Service Models 
+
+In the world of cloud computing, there are three different approaches to cloud-based services :
+
+* Infrastructure as a Service (IaaS)
+* Platform as a Service (PaaS)
+* Software as a Service (SaaS)
+
+---
+
+# IaaS : Defs
+
+Iaas is a cloud computing offering in which a vendor provides users access to computing resources such as servers, storage, and networking. Organizations use their own platforms and applications within a service provider's infrastructure.
+
+----
+
+# IaaS : Key Features
+
+* Instead of purchasing hardware outright, users pay for IaaS on demand.
+* Infrastructure is scalable depending on processing and storage needs.
+* Saves enterprises the costs of buying and maintaining their own hardware.
+* Because data is on the cloud, there is no single point of failure.
+
+---
+
+# PaaS : Defs 
+
+PaaS is a cloud computing offering that provides users a cloud envirenment in which they can develop, manage, and deliver applications. In addition to storage and other computing resources, users are able to use a suite of prebuilt tools to develop, customize and test their own applications.
+
+----
+
+# Paas : Key Features 
+
+* PaaS provides a platform with tools to test, develop, and host applications in the same envirenment.
+* Enables organizations to focus on development without having to worry about underlying infrastructure.
+* Providers manage security, operating systems, server software, and backups.
+* Facilitates collaborative work even if teams work remotely.
+
+---
+
+# SaaS : Defs 
+
+SaaS is a cloud computing offering that provides users with access to a vendor's cloud-based software. Users do not install applications on their local devices. Instead, the applications reside on a remote cloud network accessed through the web or an API. Through the application, users can store and analyze data and collaborate on projects.
+
+----
+
+SaaS : Key Features 
+
+* SaaS vendors provide users with software and applications on a subscription model.
+* Users do not have to manage, install, or upgrade software; SaaS providers manage this.
+* Data is secure in the cloud; equipment failure does not result in loss of data.
+* Use of resources can be scaled depending on service needs.
+
+---
+
+# Pros & Cons 
+
+----
+
+## Pros :
+
+* Reduced hardware equipment for end-users
+* Improved performance
+* Lower H/W and S/W maintenance
+* Instant software updates
+* Accessibility Metered Services 
+* Less Expensive
+* Improved Disaster Recovery
+
+----
+
+## Cons
+
+* Requires good internet speed with good bandwidth
+* Security
+* Limited control on infrastructure
+
+---
+
 # Part 3 : Cloud Security
+
+---
+
+# Important Point To Know 
+
+----
+
+Top cyberattack methods aimed at cloud deployments grew 45 per cent (Application Attacks), 36 per cent (Suspecious Activity) and 27 per cent (Brute Force Attacks) respectively over the previous year, while top attacks aimed at on-premises deployments remained relatively flat.
+
+----
+
+## As per 2014 KPMG Cloud Security Report
+
+* When it comes to selecting a cloud solution, Security is the no. 1 concern
+* Compared to 2012 survey, security and data privacy are greater concerns than cost effeciency
+* security ois a lesser challenge now , coompared to 2012. Cloud providers better prepared to secure data, and manage security breaches when they occur
+
+---
+
+# What's the Security for the Cloud
+
+----
+
+### In Some Ways, "Cloud Computing Security"
+Is No Different Than "Regular Security"
+
+----
+
+## Define Cloud Security :
+
+Cloud Security is security principles applied to protect data, applications and infrastructure assiciated within the Cloud Computing technology.
+
+----
+
+## Describe Cloud Security
+
+Cloud computing security or, more simply, cloud security is an evolving sub-domain of computer security, network security, and more broadly, information security. It refers to a broad set of policies, technologies, and controls deployed to protect data, applications, and the assiciated infrastructure of cloud computing.
 
 ---
 
