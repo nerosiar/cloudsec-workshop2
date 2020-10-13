@@ -167,6 +167,8 @@ Note: AWS is the Cloud of the century!
 * Lock of Standards, Compatibility
 
 ---
+
+<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/xfja94mltyh4m9gc2z0c.tablet.mp4" data-background-video-loop="loop" data-background-video-muted -->
 # Benefits of The cloud Computing?
 
 ----
@@ -255,6 +257,8 @@ The scale of cloud computing networks and their ability to provide load balancin
 </div>
 
 ----
+<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/nd1rw041se26ro761say.tablet.mp4" data-background-video-loop="loop" data-background-video-muted -->
+
 # Cloud Computing for Consumers 
 
 
@@ -283,14 +287,6 @@ The scale of cloud computing networks and their ability to provide load balancin
 sleep(100) // sleep for 0.1 seconds
 ```
 
-
----
-* Options:
-  * pass this
-
-<img class="slide-img med-img" src="" />
-<img class="slide-img med-img" src="" />
-
 ---
 
 <!-- .slide: data-background-video="https://cdn.flixel.com/flixel/8wxgggvqb7xpxr0p6mws.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
@@ -308,7 +304,7 @@ sleep(100) // sleep for 0.1 seconds
 # Deployment Models 
 
 * A cloud deployment model represents a specific type of cloud environment, primarly distinguished by ownership, size, and access.
-* There are three common cloud deployment models :
+* There are four common cloud deployment models :
 
 ----
 
@@ -332,6 +328,12 @@ sleep(100) // sleep for 0.1 seconds
 
 * A hybrid cloud is a combination of a private cloud combined with the use of public cloud services allowing data and applications to move between private and public clouds. This model gives business greater flexibility and more deployment options.
 
+----
+
+# Community Cloud 
+* Community clouds are a hybrid from of private clouds built and operated specifically for a targeted group. These communities have similar cloud requirements and their ultimate goal is to work together to achieve their business objectives.
+> Community clouds are often designed for businesses and organizations working on joint projects, applications, or research, which requires a central cloud computing facility for building, managing and executing such projects, regardless of the solution rented.
+
 ---
 
 # Service Models 
@@ -350,7 +352,7 @@ Iaas is a cloud computing offering in which a vendor provides users access to co
 
 ----
 
-# IaaS : Key Features
+## IaaS : Key Features
 
 * Instead of purchasing hardware outright, users pay for IaaS on demand.
 * Infrastructure is scalable depending on processing and storage needs.
@@ -365,7 +367,7 @@ PaaS is a cloud computing offering that provides users a cloud envirenment in wh
 
 ----
 
-# Paas : Key Features 
+## Paas : Key Features 
 
 * PaaS provides a platform with tools to test, develop, and host applications in the same envirenment.
 * Enables organizations to focus on development without having to worry about underlying infrastructure.
@@ -380,7 +382,7 @@ SaaS is a cloud computing offering that provides users with access to a vendor's
 
 ----
 
-SaaS : Key Features 
+## SaaS : Key Features 
 
 * SaaS vendors provide users with software and applications on a subscription model.
 * Users do not have to manage, install, or upgrade software; SaaS providers manage this.
@@ -412,11 +414,12 @@ SaaS : Key Features
 * Limited control on infrastructure
 
 ---
+<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/3eypp6si85dz6qffjtcl.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
 
 # Part 3 : Cloud Security
 
 ---
-
+<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/wja6g3w9ebwj6cw753eg.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
 # Important Point To Know 
 
 ----
@@ -454,7 +457,9 @@ Cloud computing security or, more simply, cloud security is an evolving sub-doma
 
 ---
 
+<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/mjt7adpli1ba1twkrche.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
 ## Key Security Considerations in The Cloud 
+> Go Deep Like a little smart Hacker
 
 ----
 
@@ -521,6 +526,8 @@ Cloud computing security or, more simply, cloud security is an evolving sub-doma
 
 ---
 
+<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/fkbplmp0zx2cvxvq8aww.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
+
 # The Road Ahead 
 
 * Clouds are more prone to security attacks than on-perm deployments
@@ -529,6 +536,7 @@ Cloud computing security or, more simply, cloud security is an evolving sub-doma
 * 2016 had been the first year when people choose cloud because of security benefits, and not elasticity / cost
 * However, stay cautious ! More serious attacks could be expected as well !
 ---
+<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/sx0p5v9at3ucuaz9e0z7.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
 
 # Conclusion 
 
