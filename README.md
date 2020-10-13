@@ -307,7 +307,7 @@ sleep(100) // sleep for 0.1 seconds
 
 ----
 
-<img class="slide-img" src="img/Cloud-Deployment-Models.png" />
+<img class="slide-img" src="https://raw.githubusercontent.com/nerosiar/cloudsec-workshop2/master/img/Cloud-Deployment-Models.png" />
 
 ----
 
