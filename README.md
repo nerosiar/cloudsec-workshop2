@@ -264,19 +264,18 @@ The scale of cloud computing networks and their ability to provide load balancin
 
 ----
 ## Define and Describe the small entreprise needs of cloud
+* Freelancers 
+* sole proprietorships
 
 ----
 
 <!-- .slide: data-background-video="https://cdn.flixel.com/flixel/u08ojgwwslba0ghx53on.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
 
-# What is ?
+## What is the benefits of Cloud For small companies?
 
 <div class="dark-bg">
-  <ul>
-    <li>Define </li>
-    <li>Describe </li>
-    <li>List the ways to stay safe while computing hhh</li>
-  </ul>
+  Cloud Computing provides access to business data and applications from anywhere, at any time, on any mobile device-all at a reasonable price when compared with the cost of hosting servers in-house.
+  ALso it's so easy to use and are browser-based for around 10$/mounth providers offer cloud-based starter packages suitable for freelancers and sole proprietorship, including invoicing, expense tracking and simple reporting.
 </div>
 
 ---
